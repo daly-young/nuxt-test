@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{172:function(e,t,n){"use strict";n.r(t);var o={layout:"demo-template"},l=n(14),s=Object(l.a)(o,function(){var e=this.$createElement;return(this._self._c||e)("p",[this._v("我是demo2")])},[],!1,null,null,null);s.options.__file="demo2.vue";t.default=s.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{173:function(e,n,t){"use strict";t.r(n);var o={asyncData:function(){console.log("i am test")}},s=t(14),i=Object(s.a)(o,function(){var e=this.$createElement;return(this._self._c||e)("p",[this._v("我是demo1页面")])},[],!1,null,null,null);i.options.__file="demo1.vue";n.default=i.exports}}]);
